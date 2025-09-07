@@ -1,6 +1,8 @@
-# GlobalShala Ad Campaign Analysis with Python
+# GlobalShala Ad Campaign Analysis 
 
-This project involved collaborating with a team of six to analyze and visualize Facebook ad campaign data for GlobalShala’s **Superhero U (SHU)** event. The goal was to identify underperforming campaigns, provide cost-saving recommendations, and support the Finance team in optimizing marketing spend. The analysis combined Python-based data exploration and visualization with clear reporting and presentation to guide budget decisions.
+This project was completed as part of my internship at **Excelerate** as a **Data Analyst Trainee Intern** for GlobalShala. In collaboration with a team of five, we analyzed and visualized Facebook ad campaign data for the **Superhero U (SHU)** event. The objective was to evaluate campaign performance, identify underperforming ads, provide cost-saving recommendations, and support the Finance team in optimizing marketing spend. The analysis leveraged Python-based data exploration and visualization, combined with clear reporting and presentation, to guide data-driven marketing decisions.
+
+
 <img width="465" height="108" alt="image" src="https://github.com/user-attachments/assets/1d8b16e1-cb5f-440e-8719-52487f7f1809" />
 
 ---
@@ -40,12 +42,12 @@ This project involved collaborating with a team of six to analyze and visualize 
 - Underperforming campaigns: Australia (Campaign 3), UK (Campaign 10), Educators & Principals (Campaign 1), UAE (Campaign 9).
 
 ### 7. CPC by Geography & Age
-- Poor cost efficiency observed in older age groups in Australia and UK, indicating higher costs with lower returns.
+- Poor cost efficiency observed in older age groups in Australia and the UK, indicating higher costs with lower returns.
 
 ---
 
 ## Recommendations
-Based on analysis, three campaigns repeatedly showed low engagement and high costs:  
+Based on the analysis, three campaigns repeatedly showed low engagement and high costs:  
 
 1. **SHU (Australia)** – Highest CPR, very low ULC and CTR; recommend discontinuation.  
 2. **SHU (UK)** – Extremely low engagement with high CPR; recommend optimization.  
